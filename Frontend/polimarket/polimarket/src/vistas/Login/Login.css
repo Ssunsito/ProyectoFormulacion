@@ -55,15 +55,18 @@
   width: 100%;
   padding: 0.6rem;
   border: 1px solid #d1d5db;
+  background-color: #f3f4f6;
   border-radius: 5px;
   font-size: 1rem;
   outline: none;
+  color: black;
 }
 
 .form-group input:focus {
-  border-color: #1e40af; /* Azul oscuro */
+  border-color: #031e76; /* Azul oscuro */
   box-shadow: 0 0 0 2px rgba(30, 64, 175, 0.2);
 }
+
 
 .login-button {
   width: 100%;
@@ -77,14 +80,14 @@
 }
 
 .login-button:hover {
-  background-color: #1e3a8a; /* Azul más oscuro */
+  background-color: #083460; /* Azul más oscuro */
 }
 
 .register-text {
   margin-top: 1rem;
   text-align: center;
   font-size: 0.9rem;
-  color: #6b7280;
+  color: black;
 }
 
 .register-text a {

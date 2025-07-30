@@ -106,6 +106,7 @@
   background-color: #dbeafe; /* Azul claro */
   margin-left: auto;
   margin-right: 1rem;
+  color: black;
 }
 
 .seller-message {
@@ -128,9 +129,11 @@
   flex: 1;
   padding: 0.6rem;
   border: 1px solid #d1d5db;
+  background-color: #d1d5db;
   border-radius: 5px;
   font-size: 1rem;
   outline: none;
+  color: black;
 }
 
 .chat-input:focus {

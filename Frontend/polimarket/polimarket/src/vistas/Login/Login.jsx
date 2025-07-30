@@ -37,7 +37,7 @@ function Login() {
               name="email"
               type="email"
               required
-              placeholder="tu@epn.edu.ec"
+              placeholder="tucorreo@epn.edu.ec"
             />
           </div>
           <div className="form-group">
